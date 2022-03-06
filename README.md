@@ -1,3 +1,3 @@
 # SilnikKrokowy
 
-Silnik krokowy.
+Aplikacja obsługująca silnik krokowy.
